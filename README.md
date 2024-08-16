@@ -150,8 +150,7 @@ After training, the model is evaluated on the validation dataset. The results in
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/bicyclegan.git
-   cd bicyclegan
+   git clone https://github.com/ravindramohith/SatelliteMapGAN.git
    ```
 
 2. Install the required packages:
